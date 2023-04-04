@@ -1,0 +1,9 @@
+package ddak;
+
+public class 배열3 {
+	public static void main(String[] args) {
+		int[] scores = new int[]{29, 45, 67, 84, 92}
+		scores[5] = 44;
+		
+	}
+}

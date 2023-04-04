@@ -1,0 +1,7 @@
+package ddak;
+
+public class 빈도수 {
+	public static void main(String[] args) {
+		
+	}
+}

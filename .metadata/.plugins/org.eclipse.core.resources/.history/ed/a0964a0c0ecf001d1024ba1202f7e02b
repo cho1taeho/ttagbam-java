@@ -1,0 +1,15 @@
+package day0331;
+
+public class Test03_Print {
+	public static void main(String[] args) {
+		
+	System.out.print("Hello SSAFY\n");
+	System.out.print("Hello Great\n");
+	
+	System.out.println("\\");
+	System.out.println("\"");
+	
+	System.out.printf("%d\n", 10);
+	
+	}
+}

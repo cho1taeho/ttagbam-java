@@ -1,0 +1,9 @@
+package day0331;
+
+public class Test03_Print {
+	public static void main(String[] args) {
+		
+	System.out.print("Hello SSAFY");
+	System.out.print("Hello Great");
+	}
+}
